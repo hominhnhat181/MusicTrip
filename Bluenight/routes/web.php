@@ -13,6 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+
+// vue-router
+Route::get('/{any}', [App\Http\Controllers\VueController::class, 'index'])->where('any', '.*');
