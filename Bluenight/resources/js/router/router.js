@@ -1,11 +1,11 @@
-import ExampleComponent from "../components/ExampleComponent";
+import Home from "../components/IndexTrue";
 import User from "../components/User";
 
 const routes = [
     {
         path: "/",
-        component: ExampleComponent,
-        name: "ExampleComponent",
+        component: Home,
+        name: "Home",
         meta: {
             permission: [],
         },

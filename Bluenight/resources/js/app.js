@@ -1,7 +1,6 @@
 
 require('./bootstrap');
 
-
 import Vue from 'vue'
 import router from './router'
 import VueRouter from 'vue-router'
@@ -19,8 +18,8 @@ window.Vue = Vue;
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-Vue.component('example-component', require('./components/ExampleComponent.vue').default);
-Vue.component('User', require('./components/User.vue'));
+// Vue.component('Home', require('./components/Index.vue').default);
+// Vue.component('User', require('./components/User.vue'));
 
 
 const app = new Vue({
