@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "myproject",
+			"path": "myproject"
+		},
+		{
+			"name": "myMusic",
+			"path": "myMusic"
+		},
+		{
+			"name": "lazyband",
+			"path": "lazyband"
+		},
+		{
+			"name": "messilip",
+			"path": "messilip"
+		},
+		{
+			"name": "rehau",
+			"path": "rehau"
+		},
+		{
+			"path": "Bluenight"
+		},
+		{
+			"path": "toupik-vue"
+		},
+		{
+			"path": "..\\..\\Users\\homin\\OneDrive\\Desktop\\Vuejs\\vuetify-material-dashboard-master"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
